@@ -1,5 +1,3 @@
-Full name - Starodubcev Denis Anatolevich
-Age       - 32
-Pets      - 0
-Salary    - 7000
-
+Full name : Starodubcev Denis Anatolevich
+Age : 32
+Pets : 0
